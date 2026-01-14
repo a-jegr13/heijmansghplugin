@@ -1,3 +1,7 @@
+# Attention
+
+This plugin is work in progress! Be carefull when using this in production Grasshopper scripts!
+
 ## Reference
 
 The follow is a link to the documentation for developing Grasshopper plugins.

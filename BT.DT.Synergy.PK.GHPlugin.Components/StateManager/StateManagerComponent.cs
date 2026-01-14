@@ -73,7 +73,6 @@ namespace BT.DT.Synergy.PK.GHPlugin
         // --- Register Outputs ---
         protected override void RegisterOutputParams(GH_Component.GH_OutputParamManager pManager)
         {
-            pManager.AddTextParameter("Status", "Status", "Status message", GH_ParamAccess.item);
         }
 
         // --- SolveInstance ---
@@ -111,7 +110,6 @@ namespace BT.DT.Synergy.PK.GHPlugin
             {
                 status = RestoreComponentStates(InputStateGuid);
             }
-            DA.SetData(0, status);
         }
 
         // --- Exposure ---
