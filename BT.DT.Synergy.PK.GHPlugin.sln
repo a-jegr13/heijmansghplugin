@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT.DT.Synergy.PK.GHPlugin", "BT.DT.Synergy.PK.GHPlugin\BT.DT.Synergy.PK.GHPlugin.csproj", "{528B5252-D199-4D2D-80E1-8FAC6E10534C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT.DT.Synergy.PK.GHPlugin.Components", "BT.DT.Synergy.PK.GHPlugin.Components\BT.DT.Synergy.PK.GHPlugin.Components.csproj", "{A7A3BC6D-B3E6-F350-F8C6-F3203E88C4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528B5252-D199-4D2D-80E1-8FAC6E10534C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528B5252-D199-4D2D-80E1-8FAC6E10534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528B5252-D199-4D2D-80E1-8FAC6E10534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528B5252-D199-4D2D-80E1-8FAC6E10534C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A3BC6D-B3E6-F350-F8C6-F3203E88C4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A3BC6D-B3E6-F350-F8C6-F3203E88C4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A3BC6D-B3E6-F350-F8C6-F3203E88C4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A3BC6D-B3E6-F350-F8C6-F3203E88C4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF1D869-372F-4685-B90F-08071F0E32AA}
+	EndGlobalSection
+EndGlobal
